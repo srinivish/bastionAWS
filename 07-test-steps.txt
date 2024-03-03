@@ -1,0 +1,4 @@
+# To test the infrastructure created for this example.
+# ssh to public ec2 instance
+# connecting to private ec2 instance
+
